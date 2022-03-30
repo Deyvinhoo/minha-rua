@@ -6,7 +6,7 @@ body{
 }
 
 .container {
-    width: 40%;
+    width: 80%;
     margin: 5% auto;
     background: #654a90;
     
@@ -51,3 +51,4 @@ body{
     width: 30px;
     padding: 4px;
 }
+
